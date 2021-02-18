@@ -270,12 +270,12 @@ attributes = {
     'paths': {
         "rbin": {
             'ports': {
-                "0": {
+                "et-8/0/0": {
                     "utilization": 1,
                     "bits": 1,
                     "bits per second": 1,
                 },
-                "1": {
+                "et-8/2/0": {
                     "utilization": 1,
                     "bits": 1,
                     "bits per second": 1,
