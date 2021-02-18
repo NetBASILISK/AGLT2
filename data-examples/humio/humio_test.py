@@ -284,27 +284,27 @@ attributes = {
         },
         "chicaglt2": {
             'ports': {
-                "0": {
+                "et-0/3/0": {
                     "input": 1,
                     "output": 1,
                 },
-                "1": {
+                "et-3/1/0": {
                     "input": 1,
                     "output": 1,
                 },
-                "2": {
+                "et-1/3/0": {
                     "input": 1,
                     "output": 1,
                 },
-                "3": {
+                "et-5/0/0": {
                     "input": 1,
                     "output": 1,
                 },
-                "4": {
+                "et-0/1/0": {
                     "input": 1,
                     "output": 1,
                 },
-                "5": {
+                "et-2/1/0": {
                     "input": 1,
                     "output": 1,
                 },
