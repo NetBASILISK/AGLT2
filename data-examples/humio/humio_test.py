@@ -271,9 +271,12 @@ attributes = {
         "rbin": {
             'ports': {
                 "et-8/0/0": {
-                    "utilization": 1,
-                    "bits": 1,
-                    "bits per second": 1,
+                    "utilization In": 1,
+                    "utilization Out": 1,
+                    "bytes transferred In": 1,
+                    "bytes transferred Out": 1,
+                    "bytes per second In": 1,
+                    "bytes per second Out": 1,
                 },
                 "et-8/2/0": {
                     "utilization": 1,
