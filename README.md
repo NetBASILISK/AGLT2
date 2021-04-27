@@ -73,5 +73,7 @@ nohup bash main.sh &>/dev/null &
 
 ## Contact
 For any question,please use the following contact to get in touch with developlers: <br/>
-**Jem Guhit**: Graduate Student, Physics. University of Michigan. guhitj@umich.edu <br/>
-**Shawn McKee**: Research Scientist. University of Michigan. smckee@umich.edu
+**Jem Guhit**: Graduate Student, Physics. University of Michigan, Ann Arbor, MI, USA. guhitj@umich.edu <br/>
+**Shawn McKee**: Research Scientist. University of Michigan, Ann Arbor, MI, USA. smckee@umich.edu <br/>
+**Kris Steinhoff**: School of Information, University of Michigan, Ann Arbor, MI, USA. steinhof@umich.edu <br/>
+**Edward Colone**: Information and Technology Services, University of Michigan, Ann Arbor, MI, USA. epcjr@umich.edu <br/>
