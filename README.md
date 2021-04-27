@@ -70,7 +70,6 @@ Run the script in background using the following command:
 nohup bash main.sh &>/dev/null &
 ```
 
-
 ## Contact
 For any question,please use the following contact to get in touch with developlers: <br/>
 **Jem Guhit**: Graduate Student, Physics. University of Michigan, Ann Arbor, MI, USA. guhitj@umich.edu <br/>
